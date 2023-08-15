@@ -1,1 +1,7 @@
-# 23-2-mlops-josermf2-template
+# MLops Template 
+
+## Objetivo
+Este repositório tem como objetivo servir de template para projetos de MLops.
+
+## Aluno
+José Fernandes
